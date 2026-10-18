@@ -28,7 +28,7 @@ Flash this firmware to your STM32, take the game from our sister repository
 ### How to play
 
 As the spellcaster your job is to RUIN boy's life (your friend) by drawing elemental spells in your grimoire! Make it
-impossible for your friend to reach the tower, by lunging them accross the screen, setting them on fire, making the
-ground slippery, and zapping them with lightning.
+impossible for your friend to reach the tower before the time is over. Send gusts of wind lunging them accross the screen, set them on fire, make the
+ground slippery, and strike them with lightning.
 
 
